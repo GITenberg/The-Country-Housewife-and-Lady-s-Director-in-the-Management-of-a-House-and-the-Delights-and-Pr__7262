@@ -1,0 +1,26 @@
+_repo: The-Country-Housewife-and-Lady-s-Director-in-the-Management-of-a-House-and-the-Delights-and-Pr__7262
+creator:
+  author:
+    agent_name: Bradley, Richard
+    alias: Bradley, R. (Richard)
+    birthdate: 1688
+    deathdate: 1732
+    gutenberg_agent_id: '2400'
+    url: http://www.gutenberg.org/2009/agents/2400
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Bradley_(botanist)
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, English'
+- !lcsh 'Cooking -- Early works to 1800'
+title: The Country Housewife and Lady's Director in the Management of a House, and
+  the Delights and Profits of a Farm
+url: http://www.gutenberg.org/ebooks/7262
